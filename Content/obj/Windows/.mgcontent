@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/AIGeneratedBGM.mp3</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/background.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/bangers.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/bangers2.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/blank.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/circle.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/DragonShoot.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/DragonSprite.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/DragonSprite2.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/drop.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/explosion.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/Feesh.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/Fireball.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/gamefont.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/gradient.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/hit.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/hit2.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/liftoff_of_smap.mp4</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/Lil_D_Body1.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/Lil_Dragon_Head1.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/Mecheval.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/menufont.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/particle.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/PenguinKing.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/PenguinShoot.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/SnowBackground.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject4/Content/splash.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
